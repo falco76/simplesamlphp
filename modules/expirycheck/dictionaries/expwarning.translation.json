@@ -11,6 +11,7 @@
 		"zh-tw": "\u60a8\u6c92\u6709\u6b0a\u9650\u4f7f\u7528\u6b64\u670d\u52d9",
 		"da": "Du har ikke adgang til denne tjeneste",
 		"af": "Jy het nie toegang na die diens nie",
+		"it": "Accesso negato",
 		"el": "\u0394\u03b5\u03bd \u03ad\u03c7\u03b5\u03c4\u03b5 \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7 \u03c3\u03b5 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7\u03bd \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1"
 	},
 	"no_access_to": {
@@ -25,6 +26,7 @@
 		"zh-tw": "\u60a8\u7684\u5e33\u865f %NETID% \u5df2\u904e\u671f\uff0c\u5b58\u53d6\u62d2\u7d55\uff01",
 		"da": "Din konto %NETID% er udl\u00f8bet, adgang n\u00e6gtet!",
 		"af": "Jou rekening %NETID% het verval, toegang verbode!",
+		"it": "Il tuo account è scaduto, accesso negato",
 		"el": "\u039f \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 %NETID% u03ad\u03c7\u03b5\u03b9 \u03bb\u03ae\u03be\u03b5\u03b9 - \u03b4\u03b5\u03bd \u03b5\u03c0\u03b9\u03c4\u03c1\u03ad\u03c0\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7!"
 	},
 	"contact_home": {
@@ -38,6 +40,7 @@
 		"zh-tw": "\u5b58\u53d6\u60a8\u7684\u7d44\u7e54\u6240\u7ba1\u7406\u4e4b\u670d\u52d9\u3002\u82e5\u6709\u554f\u984c\u8acb\u806f\u7d61\u60a8\u7576\u5730\u7684 IT \u652f\u63f4\u7a97\u53e3\u3002",
 		"da": "Adgang til tjenester styres af din hjemmeinstitution. Kontakt venligst din lokale it-support for hj\u00e6lp.",
 		"af": "Toegang tot dienste word beheer deur jou tuis organisasie. Kontak asseblief jou plaaslike IT ondersteuning vir navrae.",
+		"it": "Per accedere al servizio contattare i gestori del servizio presso l'organizzazione di appartenenza",
 		"el": "\u0397 \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b9\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2 \u03b5\u03bb\u03ad\u03b3\u03c7\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u039f\u03b9\u03ba\u03b5\u03af\u03bf \u03a6\u03bf\u03c1\u03ad\u03b1. \u0393\u03b9\u03b1 \u03c0\u03b5\u03c1\u03b1\u03b9\u03c4\u03ad\u03c1\u03c9 \u03b5\u03c1\u03c9\u03c4\u03ae\u03c3\u03b5\u03b9\u03c2, \u03c0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03bf\u03cd\u03bc\u03b5 \u03b1\u03c0\u03b5\u03c5\u03b8\u03c5\u03bd\u03b8\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03bf \u03c4\u03bf\u03c0\u03b9\u03ba\u03cc \u0393\u03c1\u03b1\u03c6\u03b5\u03af\u03bf \u0391\u03c1\u03c9\u03b3\u03ae\u03c2 \u03a7\u03c1\u03b7\u03c3\u03c4\u03ce\u03bd."
 	},
 	"expiry_date_text": {
@@ -52,6 +55,7 @@
 		"zh-tw": "\u5230\u671f\u65e5\uff1a",
 		"da": "Udl\u00f8bsdato:",
 		"af": "Verval datum:",
+		"it": "Data di scadenza",
 		"el": "\u0397\u03bc\u03b5\u03c1\u03bf\u03bc\u03b7\u03bd\u03af\u03b1 \u03bb\u03ae\u03be\u03b7\u03c2 \u03b9\u03c3\u03c7\u03cd\u03bf\u03c2:"
 	},
 	"warning_header": {
@@ -65,6 +69,7 @@
 		"zh-tw": "\u8b66\u544a\uff0c\u60a8\u7684\u5e33\u865f %NETID% \u5c07\u65bc %DAYSLEFT% %DAYS% \u5230\u671f\uff01",
 		"da": "Advarsel: din konto %NETID% udl\u00f8ber om %DAYSLEFT% %DAYS%!",
 		"af": "Waarskuwing, jou rekening %NETID% sal verval in %DAYSLEFT% %DAYS%!",
+		"it": "Attenzione il tuo account %NETID% scadrà fra %DAYSLEFT% %DAYS%!",
 		"el": "\u03a0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7: \u039f \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 %NETID% \u03b8\u03b1 \u03bb\u03ae\u03be\u03b5\u03b9 \u03c3\u03b5 %DAYSLEFT% %DAYS%!"
 	},
 	"warning_header_today": {
@@ -78,6 +83,7 @@
 		"zh-tw": "\u8b66\u544a\uff0c\u60a8\u7684\u5e33\u865f %NETID% \u4eca\u5929\u5230\u671f\uff01",
 		"da": "Advarsel: din konto %NETID% udl\u00f8ber i dag!",
 		"af": "Waarskuwing, jou rekening %NETID% verval vandag!",
+		"it": "Attenzione! Il tuo account %NETID% scade oggi!",
 		"el": "\u03a0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7: \u039f \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 %NETID% \u03bb\u03ae\u03b3\u03b5\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1!"
 	},
 	"warning": {
@@ -91,6 +97,7 @@
 		"zh-tw": "\u8b66\u544a\uff0c\u60a8\u7684\u5e33\u865f %NETID% \u5c07\u65bc %DAYSLEFT% %DAYS% \u5230\u671f\uff01",
 		"da": "Advarsel: din konto %NETID% udl\u00f8ber om %DAYSLEFT% %DAYS%!",
 		"af": "Waarskuwing, jou rekening %NETID% sal verval in %DAYSLEFT% %DAYS%!",
+		"it": "Attenzione il tuo account %NETID% scadrà fra %DAYSLEFT% %DAYS%!",
 		"el": "\u03a0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7: \u039f \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 %NETID% \u03b8\u03b1 \u03bb\u03ae\u03be\u03b5\u03b9 \u03c3\u03b5 %DAYSLEFT% %DAYS%!"
 	},
 	"warning_today": {
@@ -104,6 +111,7 @@
 		"zh-tw": "\u8b66\u544a\uff0c\u60a8\u7684\u5e33\u865f %NETID% \u4eca\u5929\u5230\u671f\uff01",
 		"da": "Advarsel: din konto %NETID% udl\u00f8ber i dag!",
 		"af": "Waarskuwing, jou rekening %NETID% verval vandag!",
+		"it": "Attenzione! Il tuo account %NETID% scade oggi!",
 		"el": "\u03a0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7: \u039f \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 %NETID% \u03bb\u03ae\u03b3\u03b5\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1!"
 	},
 	"day": {
@@ -117,6 +125,7 @@
 		"zh-tw": "\u65e5",
 		"da": "dag",
 		"af": "dag",
+		"it": "giorno",
 		"el": "\u03b7\u03bc\u03ad\u03c1\u03b1"
 	},
 	"days": {
@@ -130,6 +139,7 @@
 		"zh-tw": "\u65e5",
 		"da": "dage",
 		"af": "dae",
+		"it": "giorni",
 		"el": "\u03b7\u03bc\u03ad\u03c1\u03b5\u03c2"
 	},
 	"btn_continue": {
@@ -144,6 +154,7 @@
 		"zh-tw": "\u6211\u77e5\u9053\u4e86\uff0c\u7e7c\u7e8c...",
 		"da": "Jeg er opm\u00e6rksom p\u00e5 dette, forts\u00e6t...",
 		"af": "Ek is bewus hiervan, gaan voort...",
+		"it": "Ok, ho capito, continua ...",
 		"el": "\u0395\u03af\u03bc\u03b1\u03b9 \u03b5\u03bd\u03ae\u03bc\u03b5\u03c1\u03bf\u03c2 - \u03c3\u03c5\u03bd\u03ad\u03c7\u03b5\u03b9\u03b1"
 	}
 }
