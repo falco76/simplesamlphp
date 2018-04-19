@@ -3,6 +3,7 @@ SPID SimpleSAMLphp
 Questo è un fork di SimpleSAMLphp
 
 * [SimpleSAMLphp homepage](https://simplesamlphp.org)
+* [SimpleSAMLphp Downloads](https://simplesamlphp.org/download)
 
 
 Attenzione
